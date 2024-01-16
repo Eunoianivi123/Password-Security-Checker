@@ -33,3 +33,4 @@ The output terminals of the four XOR gates are connected through a diode network
 10. Place a wire from pin 3 of the 4001 quad to pin 4 of the 4001 quad and place a wire from pin 5 to the pushbutton switch.
 11. Connect the pushbutton switch to ground.
 12. Place a wire from pin 6 to a light-emitting diode.
+## Circuit Diagram
