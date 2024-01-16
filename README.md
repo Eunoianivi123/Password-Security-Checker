@@ -34,3 +34,5 @@ The output terminals of the four XOR gates are connected through a diode network
 11. Connect the pushbutton switch to ground.
 12. Place a wire from pin 6 to a light-emitting diode.
 ## Circuit Diagram
+## Implementation 
+## Final Result
