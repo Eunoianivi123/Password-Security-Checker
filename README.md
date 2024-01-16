@@ -36,7 +36,7 @@ The output terminals of the four XOR gates are connected through a diode network
 ## Circuit Diagram
 ![ckt](https://github.com/Eunoianivi123/Password-Security-Checker/assets/106133263/e270c849-b723-4945-a47a-ece212d08e7a)
 ## Implementation 
-![WhatsApp Image 2023-12-27 at 11 35 05 AM](https://github.com/Eunoianivi123/Password-Security-Checker/assets/106133263/588b33a1-bd93-4d30-8f40-f15ae2da546c)
+![WhatsApp Image 2023-12-27 at 11 35 03 AM](https://github.com/Eunoianivi123/Password-Security-Checker/assets/106133263/a1ccbf13-8b52-4325-bf57-86de4080412e)
 ## Final Result
 ![WhatsApp Image 2023-12-27 at 11 35 04 AM](https://github.com/Eunoianivi123/Password-Security-Checker/assets/106133263/a2097a1b-33c1-4be4-850b-812def800d8d)
-![WhatsApp Image 2023-12-27 at 11 35 03 AM](https://github.com/Eunoianivi123/Password-Security-Checker/assets/106133263/a1ccbf13-8b52-4325-bf57-86de4080412e)
+![WhatsApp Image 2023-12-27 at 11 35 05 AM](https://github.com/Eunoianivi123/Password-Security-Checker/assets/106133263/588b33a1-bd93-4d30-8f40-f15ae2da546c)
